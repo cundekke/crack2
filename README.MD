@@ -1,5 +1,3 @@
-# WELCOME
-
 #COMMAND
 
  -pkg update && pkg upgrade -y
