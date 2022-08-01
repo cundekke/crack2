@@ -1,10 +1,1 @@
- -pkg update && pkg upgrade -y
- -pkg install python
- -pkg install git
- -pip install bs4
- -pip install requests
- -pip install mechanize
- -pip install rich
- -git clone https://github.com/SetaGanz/SIMPLEV1
- -cd cundekke
- -python cundekke_crack2.py
+WELCOME
