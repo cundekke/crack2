@@ -1,1 +1,14 @@
-COMMAND
+# WELCOME
+
+#COMMAND
+
+ -pkg update && pkg upgrade -y
+ -pkg install python
+ -pkg install git
+ -pip install bs4
+ -pip install requests
+ -pip install mechanize
+ -pip install rich
+ -git clone https://github.com/cundekke/crack2.git
+ -cd cundekke
+ -python cundekke_crack2.py
