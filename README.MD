@@ -14,6 +14,6 @@
  
  -git clone https://github.com/cundekke/crack2.git
  
- -cd ccrack2
+ -cd crack2
  
  -python cundekke_crack2.py
