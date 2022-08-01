@@ -1,5 +1,3 @@
-Crack2
-
  -pkg update && pkg upgrade -y
  -pkg install python
  -pkg install git
@@ -7,7 +5,6 @@ Crack2
  -pip install requests
  -pip install mechanize
  -pip install rich
- -git clone
+ -git clone https://github.com/SetaGanz/SIMPLEV1
  -cd cundekke
- -git pull
  -python cundekke_crack2.py
